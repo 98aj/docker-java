@@ -1,4 +1,4 @@
-# This is simple java class printing Hello world.
+# This is simple java class printing Hello world in Docker container.
   1. To run this class we used docker file for createing container that have java environment to run this java file
   2. In this docker file we have used jdk image form amazoncorretto 17 alpine version (FROM amazoncorretto:17-alpine)
   3. Workdir is creating working directory in container for java app
